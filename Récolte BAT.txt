@@ -1,0 +1,41 @@
+Masse fraiche	Engrais
+74.1	Sachets
+109.9	Sachets
+133	Plagron hydro
+106.2	Plagron hydro
+136.7	Plagron terra
+53	Plagron terra
+129.6	Sachets
+134.6	Sachets
+99.2	Plagron hydro
+94.1	Plagron hydro
+158	Plagron terra
+29.6	Plagron terra
+60.6	Sachets
+55.7	Sachets
+94.8	Plagron hydro
+75.1	Plagron hydro
+112.9	Plagron terra
+134	Plagron terra
+83.6	Sachets
+126.1	Sachets
+88.5	Plagron hydro
+86.9	Plagron hydro
+144.7	Sachets
+131.8	Sachets
+101.6	Plagron terra
+89.3	Plagron terra
+181.1	Plagron hydro
+98.5	Plagron hydro
+156	Plagron hydro
+122.9	Plagron terra
+110.3	Plagron terra
+84.1	Sachets
+121.9	Sachets
+124.7	Plagron hydro
+116.8	Plagron hydro
+122.7	Plagron hydro
+116.8	Plagron terra
+160.3	Plagron terra
+160.1	Plagron terra
+112.7	Plagron terra

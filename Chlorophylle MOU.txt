@@ -1,0 +1,49 @@
+Chlorophylle	Engrais
+0.000	Sachets
+0.317	Sachets
+0.328	Sachets
+0.338	Sachets
+0.000	Plagron hydro
+0.198	Plagron hydro
+0.076	Plagron hydro
+0.000	Plagron hydro
+0.000	Plagron terra
+0.135	Plagron terra
+0.204	Plagron terra
+0.002	Plagron terra
+0.038	Sachets
+0.267	Sachets
+0.134	Sachets
+0.147	Sachets
+0.303	Plagron hydro
+0.094	Plagron hydro
+0.135	Plagron hydro
+0.193	Plagron hydro
+0.021	Plagron terra
+0.156	Plagron terra
+0.000	Plagron terra
+0.048	Plagron terra
+0.122	Plagron hydro
+0.038	Plagron hydro
+0.074	Plagron hydro
+0.248	Plagron hydro
+0.219	Sachets
+0.332	Sachets
+0.208	Sachets
+0.000	Sachets
+0.000	Plagron terra
+0.366	Plagron terra
+0.174	Plagron terra
+0.162	Plagron terra
+0.126	Plagron hydro
+0.235	Plagron hydro
+0.197	Plagron hydro
+0.191	Plagron hydro
+0.145	Sachets
+0.342	Sachets
+0.233	Sachets
+0.082	Sachets
+0.057	Plagron terra
+0.120	Plagron terra
+0.181	Plagron terra
+0.187	Plagron terra

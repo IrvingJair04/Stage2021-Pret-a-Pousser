@@ -1,0 +1,37 @@
+Masse	Engrais
+2.1	Sachets
+2.4	Sachets
+2.2	Sachets
+2	Sachets
+2.3	Sachets
+1.8	Sachets
+1.0	Sachets
+1.6	Sachets
+1.4	Sachets
+5.2	Sachets
+2.6	Sachets
+3.5	Plagron hydro
+4.1	Plagron hydro
+3.4	Plagron hydro
+3.7	Plagron hydro
+1.9	Plagron hydro
+3.4	Plagron hydro
+2.6	Plagron hydro
+6.1	Plagron hydro
+4.1	Plagron hydro
+4.7	Plagron hydro
+4	Plagron hydro
+3.5	Plagron hydro
+5.5	Plagron terra
+4.1	Plagron terra
+1.0	Plagron terra
+3.8	Plagron terra
+2.3	Plagron terra
+6.9	Plagron terra
+1.1	Plagron terra
+3	Plagron terra
+3.1	Plagron terra
+2.3	Plagron terra
+1.4	Plagron terra
+3.3	Plagron terra
+4.3	Plagron terra

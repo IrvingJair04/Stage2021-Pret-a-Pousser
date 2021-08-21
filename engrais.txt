@@ -1,0 +1,8 @@
+	Sachets	Plagron hydro 	Plagron terra
+NO3	80	44	20
+NH4	45		6
+NH2	15		
+P2O5	63	32	11
+K2O	240	71	31
+MgO		14	
+CaO		59	
